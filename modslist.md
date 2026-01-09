@@ -7,7 +7,6 @@
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.12\-snapshot\+mc1\.21\.1\-local]
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [19\.27\.0\.340]
 - [Just Zoom](https://modrinth.com/mod/iAiqcykM) [2\.1\.0]
-- [KissMod](https://modrinth.com/mod/625eK1Si) [1\.2\.0]
 - [Konkrete](https://modrinth.com/mod/J81TRJWm) [1\.9\.9]
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [4\.8\.7\+1\.21\.1]
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.15\.1\+mc1\.21\.1]
